@@ -209,3 +209,14 @@ Puis on regarde les différences réelles plutôt que d'apprendre NestJS dans le
 
 
 Parfait. On passe donc à Mapped Types + Conditional Types.
+
+
+## =========================
+
+On arrive maintenant à la partie que tu avais prévue au départ :
+interface → Generics → Utility Types → TypeScript avancé
+La première notion avancée que je te propose est Mapped Types.
+ 
+Je pourrai reprendre le fil de cette conversation. Nous nous sommes arrêtés juste avant les Mapped Types, au début de la partie TypeScript avancé.
+ 
+## ============================
