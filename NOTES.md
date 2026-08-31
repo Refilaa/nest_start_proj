@@ -220,3 +220,35 @@ La première notion avancée que je te propose est Mapped Types.
 Je pourrai reprendre le fil de cette conversation. Nous nous sommes arrêtés juste avant les Mapped Types, au début de la partie TypeScript avancé.
  
 ## ============================
+
+
+On s'est arrêté précisément ici :
+
+Phase 1 — TypeScript / Node.js
+
+
+✅ types / interfaces
+✅ generics
+✅ async / await / Promises
+✅ modules
+✅ Mapped Types
+✅ Conditional Types
+✅ keyof / T[K]
+✅ Utility Types
+   - Partial
+   - Pick
+   - Omit
+   - ReturnType
+   - Awaited
+   - etc.
+✅ infer
+⬇️
+EN COURS → Classes + Decorators
+
+Et la prochaine chose à faire sera :
+
+Comprendre comment fonctionne réellement un decorator TypeScript, en en écrivant un petit nous-mêmes, puis faire le lien avec @Injectable(), @Controller() et @Get() de NestJS.
+
+On a également commencé à faire systématiquement le parallèle avec Symfony, et on continuera comme prévu.
+
+Donc demain, tu peux simplement me dire : « On reprend TypeScript/NestJS », et on repartira de là.
